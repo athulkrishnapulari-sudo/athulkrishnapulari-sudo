@@ -1,5 +1,7 @@
 # Hi there, I'm Athul Krishna! 👋
 
+I am a passionate **B.Tech student** on a mission to build cool things for the internet. Currently, I am diving deep into the world of **Web Development**, transforming lines of code into interactive and user-friendly digital experiences.
+
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athul-krishna-38a357380)
